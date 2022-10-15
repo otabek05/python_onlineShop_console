@@ -1,5 +1,8 @@
 # add remove search show clear
 
+from pyautogui import sleep
+
+
 basket=['apple','peach']
 
 while True:
@@ -60,3 +63,48 @@ while True:
     else:
         print('Please check your command!')
 
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+hacked
+
+sleepsleep
+sleepsleep
+sleepsleep
+sleep
